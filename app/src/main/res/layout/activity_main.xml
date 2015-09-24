@@ -1,0 +1,9 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_movies"
+    android:name="com.example.walidelshafai.udacity_google_mcit_popmoviesapp.MainActivityFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:configChanges="orientation"
+    tools:context="com.example.walidelshafai.udacity_google_mcit_popmoviesapp.MainActivityFragment"
+    tools:layout="@android:layout/list_content" />
